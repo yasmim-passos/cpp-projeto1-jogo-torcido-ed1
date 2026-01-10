@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1752674931 source:c:\users\josef\downloads\jogo_torcido\main.cpp
+	<iostream>
+	"raylib.h"
+	"pilha.h"
+	"nucleo_jogo.h"
+	"interface.h"
+
+1752282142 c:\users\josef\downloads\jogo_torcido\pilha.h
+	<string>
+	<iostream>
+
+1752632287 c:\users\josef\downloads\jogo_torcido\nucleo_jogo.h
+	<fstream>
+	<cstdlib>
+	<random>
+	<chrono>
+	<algorithm>
+	"pilha.h"
+	"interface.h"
+
+1752541848 c:\users\josef\downloads\jogo_torcido\interface.h
+	"raylib.h"
+	<string>
+	"pilha.h"
+
